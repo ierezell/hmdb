@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "hmdb",
+        "meilli",
+        "omim",
+        "pubmed",
+        "reqwest",
+        "Tauri",
+        "tempdir",
+        "tempfile",
+        "tokio",
+        "uniprot"
+    ],
+    "conventionalCommits.scopes": [
+        "repo"
+    ]
+}
